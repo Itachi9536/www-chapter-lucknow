@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Lucknow
 tags: example-tag
 region: Asia
-meetup-group:
+meetup-group: owasp-lucknow-group
 
 ---
 
