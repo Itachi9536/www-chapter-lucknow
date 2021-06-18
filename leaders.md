@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Ankit Giri](mailto:ankit.giri@owasp.org)
+* [Akarsh Singh](mailto:akarsh.singh@owasp.org)
